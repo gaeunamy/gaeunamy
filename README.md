@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/sometting20/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a></a></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeunamy&show_icons=true&theme=vue)
+
+<a href="https://github.com/gaeunamy/ICE_university">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaeunamy&repo=ICE_university&theme=vue" />
+</a>
