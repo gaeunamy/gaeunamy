@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/gaeunamy/ICE_university">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaeunamy&repo=ICE_university&theme=vue" />
 </a>
+<a href="https://github.com/gaeunamy/practice">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaeunamy&repo=practice&theme=vue" />
+</a>
