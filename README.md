@@ -32,14 +32,18 @@ Here are some ideas to get you started:
 
 <h3 align="center">&nbsp</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeunamy&show_icons=true&theme=vue)
-[![gaeunamy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gaeunamy&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/geunmy)
+<div align="center">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gaeunamy&show_icons=true&theme=vue) 
+</div>
 
 <br>
 
+<div align="center">
+  
 <a href="https://github.com/gaeunamy/ICE_university">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaeunamy&repo=ICE_university&theme=vue" />
-</a>
+</a> &nbsp &nbsp
 <a href="https://github.com/gaeunamy/practice">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaeunamy&repo=practice&theme=vue" />
-</a>
+</a> </div>
