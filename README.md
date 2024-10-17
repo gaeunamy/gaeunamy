@@ -54,7 +54,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> &nbsp 
-
+<br><br>
+  
 <h3 align="center">💌 Me 💌</h3>
 <p align="center">
 <a href="https://www.instagram.com/sometting20/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a></a> &nbsp
@@ -69,7 +70,7 @@ Here are some ideas to get you started:
 <div align="center">
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gaeunamy&show_icons=true&theme=vue) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeunamy&hide=contribs,prs&show_icons=true&theme=graywhite)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeunamy&hide=contribs,prs&show_icons=true&theme=graywhite) -->
 
 </div>
 
