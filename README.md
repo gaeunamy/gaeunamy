@@ -22,22 +22,26 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/YOLOv5-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> &nbsp
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=SQLite&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/ML/DL-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a> <br>
+<br>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/JavaScript-7952B3?style=flat-square&logo=javascript&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/> &nbsp
+<br><br>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Eclipse IDE-525C86?style=flat-square&logo=Eclipse IDE&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=Spyder IDE&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/Eclipse IDE-525C86?style=flat-square&logo=Eclipse IDE&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> &nbsp 
-<br>
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/YOLOv5-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/> &nbsp
 <br>
