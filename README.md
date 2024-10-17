@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/> &nbsp
 <br><br>
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<p align="center"> 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> &nbsp 
@@ -44,7 +47,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=Spyder IDE&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/> &nbsp
-<br>
+<br><br>
+
+<h3 align="center">💬 Collaboration 💬</h3>
+<p align="center"> 
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> &nbsp 
+
 <h3 align="center">💌 Me 💌</h3>
 <p align="center">
 <a href="https://www.instagram.com/sometting20/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a></a> &nbsp
@@ -53,9 +63,14 @@ Here are some ideas to get you started:
 
 <h3 align="center">&nbsp</h3>
 
-<div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gaeunamy&show_icons=true&theme=vue) 
+
+
+<div align="center">
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gaeunamy&show_icons=true&theme=vue) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeunamy&hide=contribs,prs&show_icons=true&theme=graywhite)
+
 </div>
 
 <br>
