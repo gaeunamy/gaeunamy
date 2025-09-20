@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> &nbsp
 <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=SQLite&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> &nbsp 
 <br>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/JavaScript-7952B3?style=flat-square&logo=javascript&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> &nbsp
