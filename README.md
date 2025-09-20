@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white"/> &nbsp 
-<img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=Spyder IDE&logoColor=white"/> &nbsp 
+<img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=SpyderIDE&logoColor=white"/> &nbsp 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/> &nbsp
 <br><br>
